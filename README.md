@@ -7,6 +7,7 @@ I'm a passionate tech enthusiast with a focus on creating impactful user experie
 ## Skills
 
 **Programming & Development**
+My core focus is on:
 - UI/UX Design
 - HTML5
 - CSS
@@ -14,6 +15,7 @@ I'm a passionate tech enthusiast with a focus on creating impactful user experie
 - React Native
 
 **Design Tools**
+I'm experienced in:
 - Figma
 - Canva
 
