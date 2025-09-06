@@ -22,7 +22,7 @@ I'm a passionate tech enthusiast with a focus on creating impactful user experie
 - **Front-End Development**
 
 ## Connect with Me
-- 📧 [Email Me](fatimairum@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/irum-fatima-8763a930a/) 
+- 📧 [Email Me](mailto:fatimairum@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/irum-fatima)
 
 I'm always open to collaborations, networking, and sharing ideas in the world of tech—let's connect!
