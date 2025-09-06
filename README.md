@@ -1,14 +1,12 @@
-## Hi,I'm Irum Fatima!
+## Hi, I'm Irum Fatima! 👋
 
 ## About Me
-
-I'm a Bachelor of Science in Computer Science student at the International Islamic University, Islamabad.I'm a passionate tech enthusiast with a focus on creating impactful user experiences.
+I'm a Bachelor of Science in Computer Science student at the International Islamic University, Islamabad.  
+I'm a passionate tech enthusiast with a focus on creating impactful user experiences.
 
 ## Skills
 
-**Programming Languages**
-My core focus is on:
-
+**Programming & Development**
 - UI/UX Design
 - HTML5
 - CSS
@@ -16,17 +14,15 @@ My core focus is on:
 - React Native
 
 **Design Tools**
-I'm experienced in:
-
- Figma
- Canva
+- Figma
+- Canva
 
 ## Interests & Future Prospects
 - **Product Design**
 - **Front-End Development**
 
 ## Connect with Me
-Email:fatimairum@gmail.com
-LinkedIn:Irum Fatima
-I'm always open to collaborations, networking, and sharing ideas in the world of tech—let's connect!
+- 📧 [Email Me](fatimairum@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/irum-fatima-8763a930a/) 
 
+I'm always open to collaborations, networking, and sharing ideas in the world of tech—let's connect!
