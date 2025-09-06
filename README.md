@@ -1,37 +1,32 @@
-# Ecommerce Contact Page
+## Hi,I'm Irum Fatima!
 
-A clean and simple static webpage designed to serve as the contact portal for a company. Users can easily reach out, send messages, and find essential company information. This project is built using HTML only.
+## About Me
 
-## Live Demo
+I'm a Bachelor of Science in Computer Science student at the International Islamic University, Islamabad.I'm a passionate tech enthusiast with a focus on creating impactful user experiences.
 
-https://html-task-page.netlify.app/
+## Skills
 
-## About the Project
+**Programming Languages**
+My core focus is on:
 
-This Contact Page enables visitors to:
+- UI/UX Design
+- HTML5
+- CSS
+- JavaScript
+- React Native
 
-* Fill out a contact form with personal details and messages
-* Select the type of inquiry and mark it as urgent if needed
-* Choose their preferred contact method (email or phone)
-* Check company address and office hours
+**Design Tools**
+I'm experienced in:
 
-## Key Features
+ Figma
+ Canva
 
-* Interactive form section with input fields, dropdowns, checkboxes, and radio buttons
-* Organized office hours table for clear information
-* Company address and contact details displayed prominently
-* Simple and responsive layout using only HTML
+## Interests & Future Prospects
+- **Product Design**
+- **Front-End Development**
 
-## Technologies Used
-
-* **HTML** – For page structure and form elements
-
-## Contact
-
-For questions or inquiries, reach out via email:
-fatimairum098@gmail.com
-
-## Acknowledgments
-
-Thank you for checking out this project! This contact page can serve as a starting point for small businesses or personal portfolios needing a simple communication interface.
+## Connect with Me
+Email:fatimairum@gmail.com
+LinkedIn:Irum Fatima
+I'm always open to collaborations, networking, and sharing ideas in the world of tech—let's connect!
 
